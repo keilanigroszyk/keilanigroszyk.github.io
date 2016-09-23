@@ -8,3 +8,15 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {
+  color: purple;
+  font-size: 96px;
+  text-decoration: underline overline;
+}
+.awesome {
+  color:orange;
+  font-size: 36px;
+}
+.connect {
+  color:green;
+}
